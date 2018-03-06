@@ -1,0 +1,33 @@
+=> URDF
+Mass properties of LHipRAnkle
+Coordinate system: frame_r_ankle_pitch
+
+Mass = 0.33138738 kilograms
+
+Center of mass: ( meters )
+	X = -0.01526237
+	Y = 0.02152630
+	Z = 0.00000000
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.00025937	Lxy = -0.00000212	Lxz = 0.00000079
+	Lyx = -0.00000212	Lyy = 0.00014261	Lyz = 0.00000000
+	Lzx = 0.00000079	Lzy = 0.00000000	Lzz = 0.00031349
+
+=> DH
+Mass properties of LHipRAnkle
+Coordinate system: frame_r_ankle_roll
+
+Mass = 0.33138738 kilograms
+
+Center of mass: ( meters )
+	X = -0.01526237
+	Y = 0.00000000
+	Z = -0.02152630
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.00025937	Lxy = 0.00000079	Lxz = 0.00000212
+	Lyx = 0.00000079	Lyy = 0.00031349	Lyz = 0.00000000
+	Lzx = 0.00000212	Lzy = 0.00000000	Lzz = 0.00014261

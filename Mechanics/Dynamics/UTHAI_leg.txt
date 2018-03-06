@@ -1,0 +1,15 @@
+Mass properties of UTHAI_leg
+Coordinate system: frame_base
+
+Mass = 3.31477475 kilograms
+
+Center of mass: ( meters )
+	X = -0.00855772
+	Y = 0.00000000
+	Z = -0.33375492
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.28641029	Lxy = -0.00000302	Lxz = -0.00048106
+	Lyx = -0.00000302	Lyy = 0.26207601	Lyz = -0.00061103
+	Lzx = -0.00048106	Lzy = -0.00061103	Lzz = 0.02925799

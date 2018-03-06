@@ -1,0 +1,15 @@
+Mass properties of Pelvis
+Coordinate system: frame_base
+
+Mass (user-overridden) = 0.66200000 kilograms
+
+Center of Mass (user-overridden): ( meters )
+	X = -0.00557436
+	Y = 0.00000000
+	Z = -0.02356598
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.00502378	Lxy = -0.00000002	Lxz = -0.00000357
+	Lyx = -0.00000002	Lyy = 0.00051742	Lyz = 0.00000000
+	Lzx = -0.00000357	Lzy = 0.00000000	Lzz = 0.00508279

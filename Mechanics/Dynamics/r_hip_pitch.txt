@@ -1,0 +1,34 @@
+=> URDF
+Mass properties of ThighAssem
+Coordinate system: frame_r_hip_pitch
+
+Mass (user-overridden) = 0.31800000 kilograms
+
+Center of mass: ( meters )
+	X = 0.22137989
+	Y = 0.00000000
+	Z = 0.00000000
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.00011525	Lxy = 0.00000000	Lxz = 0.00000078
+	Lyx = 0.00000000	Lyy = 0.00254669	Lyz = 0.00000000
+	Lzx = 0.00000078	Lzy = 0.00000000	Lzz = 0.00250848
+
+
+=> DH
+Mass properties of ThighAssem
+Coordinate system: frame_r_knee_pitch
+
+Mass (user-overridden) = 0.31800000 kilograms
+
+Center of mass: ( meters )
+	X = -0.07862011
+	Y = 0.00000000
+	Z = 0.00000000
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.00011525	Lxy = 0.00000000	Lxz = 0.00000078
+	Lyx = 0.00000000	Lyy = 0.00254669	Lyz = 0.00000000
+	Lzx = 0.00000078	Lzy = 0.00000000	Lzz = 0.00250848
