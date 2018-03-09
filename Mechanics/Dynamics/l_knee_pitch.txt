@@ -1,8 +1,8 @@
-=> URDF
-Mass properties of ShinAssem
-Coordinate system: frame_r_knee_pitch
+URDF
+Mass properties of l_knee_pitch
+Coordinate system: frame_l_knee_pitch
 
-Mass = 0.13800000 kilograms
+Mass (user-overridden) = 0.15100000 kilograms
 
 Center of mass: ( meters )
 	X = 0.16288218
@@ -11,15 +11,15 @@ Center of mass: ( meters )
 
 Moments of inertia: ( kilograms * square meters )
 Taken at the center of mass and aligned with the output coordinate system.
-	Lxx = 0.00005794	Lxy = 0.00000000	Lxz = 0.00000000
-	Lyx = 0.00000000	Lyy = 0.00127592	Lyz = 0.00000000
-	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00124960
+	Lxx = 0.00006340	Lxy = 0.00000000	Lxz = 0.00000000
+	Lyx = 0.00000000	Lyy = 0.00139612	Lyz = 0.00000000
+	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00136731
 
-=> DH
-Mass properties of ShinAssem
-Coordinate system: frame_r_ankle_pitch
+DH
+Mass properties of l_ankle_pitch
+Coordinate system: frame_l_ankle_pitch
 
-Mass = 0.13800000 kilograms
+Mass (user-overridden) = 0.15100000 kilograms
 
 Center of mass: ( meters )
 	X = -0.15211782
@@ -28,7 +28,7 @@ Center of mass: ( meters )
 
 Moments of inertia: ( kilograms * square meters )
 Taken at the center of mass and aligned with the output coordinate system.
-	Lxx = 0.00005794	Lxy = 0.00000000	Lxz = 0.00000000
-	Lyx = 0.00000000	Lyy = 0.00127592	Lyz = 0.00000000
-	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00124960
+	Lxx = 0.00006340	Lxy = 0.00000000	Lxz = 0.00000000
+	Lyx = 0.00000000	Lyy = 0.00139612	Lyz = 0.00000000
+	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00136731
 

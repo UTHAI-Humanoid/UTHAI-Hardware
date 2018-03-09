@@ -1,33 +1,33 @@
-=> URDF
-Mass properties of Feet_R
-Coordinate system: frame_r_ankle_roll
+URDF
+Mass properties of l_ankle_roll
+Coordinate system: frame_l_ankle_roll
 
 Mass (user-overridden) = 0.10500000 kilograms
 
 Center of mass: ( meters )
-	X = 0.03625882
-	Y = -0.00019548
-	Z = 0.00034576
+	X = 0.03608455
+	Y = 0.00020160
+	Z = 0.00002697
 
 Moments of inertia: ( kilograms * square meters )
 Taken at the center of mass and aligned with the output coordinate system.
-	Lxx = 0.00034591	Lxy = -0.00000013	Lxz = 0.00000857
-	Lyx = -0.00000013	Lyy = 0.00032705	Lyz = 0.00000120
-	Lzx = 0.00000857	Lzy = 0.00000120	Lzz = 0.00004813
+	Lxx = 0.00034223	Lxy = 0.00000014	Lxz = 0.00000840
+	Lyx = 0.00000014	Lyy = 0.00032348	Lyz = -0.00000118
+	Lzx = 0.00000840	Lzy = -0.00000118	Lzz = 0.00004816
 
-=> DH
-Mass properties of Feet_R
-Coordinate system: frame_r_foot
+DH
+Mass properties of l_ankle_roll
+Coordinate system: frame_l_foot
 
 Mass (user-overridden) = 0.10500000 kilograms
 
 Center of mass: ( meters )
-	X = -0.01454118
-	Y = -0.00034576
-	Z = -0.00019548
+	X = -0.01471545
+	Y = -0.00002697
+	Z = 0.00020160
 
 Moments of inertia: ( kilograms * square meters )
 Taken at the center of mass and aligned with the output coordinate system.
-	Lxx = 0.00034591	Lxy = -0.00000857	Lxz = -0.00000013
-	Lyx = -0.00000857	Lyy = 0.00004813	Lyz = -0.00000120
-	Lzx = -0.00000013	Lzy = -0.00000120	Lzz = 0.00032705
+	Lxx = 0.00034223	Lxy = -0.00000840	Lxz = 0.00000014
+	Lyx = -0.00000840	Lyy = 0.00004816	Lyz = 0.00000118
+	Lzx = 0.00000014	Lzy = 0.00000118	Lzz = 0.00032348

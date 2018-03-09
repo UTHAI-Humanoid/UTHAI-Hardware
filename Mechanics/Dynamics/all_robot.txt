@@ -1,0 +1,34 @@
+URDF
+Mass properties of UTHAI_leg
+Coordinate system: frame_base
+
+Mass = 3.56700000 kilograms
+
+Center of mass: ( meters )
+	X = -0.00836813
+	Y = 0.00000000
+	Z = -0.31830739
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.31081793	Lxy = -0.00000313	Lxz = -0.00035731
+	Lyx = -0.00000313	Lyy = 0.28471758	Lyz = -0.00000024
+	Lzx = -0.00035731	Lzy = -0.00000024	Lzz = 0.03125190
+
+
+DH
+Mass properties of UTHAI_leg
+Coordinate system: frame_base
+
+Mass = 3.56700000 kilograms
+
+Center of mass: ( meters )
+	X = -0.00836813
+	Y = 0.00000000
+	Z = -0.31830739
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.31081793	Lxy = -0.00000313	Lxz = -0.00035731
+	Lyx = -0.00000313	Lyy = 0.28471758	Lyz = -0.00000024
+	Lzx = -0.00035731	Lzy = -0.00000024	Lzz = 0.03125190

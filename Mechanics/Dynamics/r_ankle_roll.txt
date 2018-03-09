@@ -1,5 +1,5 @@
-=> URDF
-Mass properties of Feet_R
+URDF
+Mass properties of r_ankle_roll
 Coordinate system: frame_r_ankle_roll
 
 Mass (user-overridden) = 0.10500000 kilograms
@@ -15,8 +15,8 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = -0.00000013	Lyy = 0.00032705	Lyz = 0.00000120
 	Lzx = 0.00000857	Lzy = 0.00000120	Lzz = 0.00004813
 
-=> DH
-Mass properties of Feet_R
+DH
+Mass properties of r_ankle_roll
 Coordinate system: frame_r_foot
 
 Mass (user-overridden) = 0.10500000 kilograms

@@ -1,5 +1,5 @@
-=> URDF
-Mass properties of FR08-H110
+URDF
+Mass properties of l_hip_yaw
 Coordinate system: frame_l_hip_yaw
 
 Mass (user-overridden) = 0.09100000 kilograms
@@ -15,9 +15,8 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = 0.00000000	Lyy = 0.00002022	Lyz = 0.00000000
 	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00014316
 
-
-=> DH
-Mass properties of FR08-H110
+DH
+Mass properties of l_hip_yaw
 Coordinate system: frame_l_hip_roll
 
 Mass (user-overridden) = 0.09100000 kilograms

@@ -1,5 +1,5 @@
-=> URDF
-Mass properties of ThighAssem
+URDF
+Mass properties of r_hip_pitch
 Coordinate system: frame_r_hip_pitch
 
 Mass (user-overridden) = 0.31800000 kilograms
@@ -15,9 +15,8 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = 0.00000000	Lyy = 0.00254669	Lyz = 0.00000000
 	Lzx = 0.00000078	Lzy = 0.00000000	Lzz = 0.00250848
 
-
-=> DH
-Mass properties of ThighAssem
+DH
+Mass properties of r_hip_pitch
 Coordinate system: frame_r_knee_pitch
 
 Mass (user-overridden) = 0.31800000 kilograms
