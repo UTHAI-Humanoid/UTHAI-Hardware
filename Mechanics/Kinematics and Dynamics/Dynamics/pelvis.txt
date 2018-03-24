@@ -15,6 +15,12 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = -0.00000003	Lyy = 0.00067608	Lyz = 0.00000000
 	Lzx = -0.00000466	Lzy = 0.00000000	Lzz = 0.00664141
 
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00704469	Ixy = -0.00000003	Ixz = 0.00010897
+	Iyx = -0.00000003	Iyy = 0.00118334	Iyz = 0.00000001
+	Izx = 0.00010897	Izy = 0.00000001	Izz = 0.00666829
+
 DH
 Mass properties of Pelvis
 Coordinate system: frame_base
@@ -31,3 +37,10 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lxx = 0.00656431	Lxy = -0.00000003	Lxz = -0.00000466
 	Lyx = -0.00000003	Lyy = 0.00067608	Lyz = 0.00000000
 	Lzx = -0.00000466	Lzy = 0.00000000	Lzz = 0.00664141
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00704469	Ixy = -0.00000003	Ixz = 0.00010897
+	Iyx = -0.00000003	Iyy = 0.00118334	Iyz = 0.00000001
+	Izx = 0.00010897	Izy = 0.00000001	Izz = 0.00666829
+

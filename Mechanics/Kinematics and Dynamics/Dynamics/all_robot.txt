@@ -15,6 +15,11 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = -0.00000313	Lyy = 0.28471758	Lyz = -0.00000024
 	Lzx = -0.00035731	Lzy = -0.00000024	Lzz = 0.03125190
 
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.67222493	Ixy = -0.00000313	Ixz = 0.00914389
+	Iyx = -0.00000313	Iyy = 0.64637436	Iyz = -0.00000037
+	Izx = 0.00914389	Izy = -0.00000037	Izz = 0.03150169
 
 DH
 Mass properties of UTHAI_leg
@@ -32,3 +37,9 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lxx = 0.31081793	Lxy = -0.00000313	Lxz = -0.00035731
 	Lyx = -0.00000313	Lyy = 0.28471758	Lyz = -0.00000024
 	Lzx = -0.00035731	Lzy = -0.00000024	Lzz = 0.03125190
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.67222493	Ixy = -0.00000313	Ixz = 0.00914389
+	Iyx = -0.00000313	Iyy = 0.64637436	Iyz = -0.00000037
+	Izx = 0.00914389	Izy = -0.00000037	Izz = 0.03150169

@@ -15,6 +15,12 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = 0.00000000	Lyy = 0.00002022	Lyz = 0.00000000
 	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00014316
 
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00020337	Ixy = 0.00000000	Ixz = 0.00000000
+	Iyx = 0.00000000	Iyy = 0.00002514	Iyz = 0.00001672
+	Izx = 0.00000000	Izy = 0.00001672	Izz = 0.00020004
+
 DH
 Mass properties of r_hip_yaw
 Coordinate system: frame_r_hip_roll
@@ -31,3 +37,9 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lxx = 0.00014158	Lxy = 0.00000000	Lxz = 0.00000000
 	Lyx = 0.00000000	Lyy = 0.00014316	Lyz = 0.00000000
 	Lzx = 0.00000000	Lzy = 0.00000000	Lzz = 0.00002022
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00027315	Ixy = 0.00000000	Ixz = 0.00000000
+	Iyx = 0.00000000	Iyy = 0.00020004	Iyz = -0.00006518
+	Izx = 0.00000000	Izy = -0.00006518	Izz = 0.00009492

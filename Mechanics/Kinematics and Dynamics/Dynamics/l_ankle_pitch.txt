@@ -15,6 +15,12 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = -0.00000219	Lyy = 0.00014760	Lyz = 0.00000000
 	Lzx = -0.00000081	Lzy = 0.00000000	Lzz = 0.00032449
 
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00042740	Ixy = -0.00011488	Ixz = -0.00000081
+	Iyx = -0.00011488	Iyy = 0.00022750	Iyz = 0.00000000
+	Izx = -0.00000081	Izy = 0.00000000	Izz = 0.00056331
+
 DH
 Mass properties of l_ankle_roll
 Coordinate system: frame_l_ankle_roll
@@ -32,3 +38,8 @@ Taken at the center of mass and aligned with the output coordinate system.
 	Lyx = -0.00000081	Lyy = 0.00032449	Lyz = 0.00000000
 	Lzx = 0.00000219	Lzy = 0.00000000	Lzz = 0.00014760
 
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00042740	Ixy = -0.00000081	Ixz = 0.00011488
+	Iyx = -0.00000081	Iyy = 0.00056331	Iyz = 0.00000000
+	Izx = 0.00011488	Izy = 0.00000000	Izz = 0.00022750
